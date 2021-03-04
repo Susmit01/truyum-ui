@@ -1,0 +1,123 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    padding: 10px;
+    margin-top: -20px;
+    background-color: #305496;
+    width: auto;
+    height: 60px;
+}
+.page-title{
+    color: #ffffff;
+    margin: 20px;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    margin-left: 20px;
+    width: 65px;
+    height: 45px;
+}
+#menu{
+    color: #ffffff;
+    float: right;
+}
+table.menu-admin{
+    text-align: center;
+    padding-top: 70px;
+    padding-left: 70px;
+    padding-right: 50px;
+}
+table.menu-customer{
+    text-align: center;
+    padding-top: 70px;
+    padding-left: 70px;
+    padding-right: 50px;
+}
+table.specs-edit{
+    text-align: center;
+    padding-top: 70px;
+    padding-left: 70px;
+    padding-right: 50px;
+
+}
+
+td, th{
+    border-collapse: separate;
+    padding-right: 2.5em;
+    padding-bottom: 0.5em;
+}
+.column-one{
+    text-align: left;
+    padding-right: 150px;
+}
+.table-header{
+    padding-top: 20px;
+    padding-left: 70px;
+    padding-bottom: 30px;
+    color: #2b2b2b;
+}
+footer{
+    background-color: #aaaaaac5;
+    color: #000000;
+    width: auto;
+    height: 60px;
+    margin-bottom: 0px;
+    padding: 10px;
+    text-align: left;
+}
+section{
+    margin-top: 7em;
+    height: 31.5em;
+    width: auto;
+}
+#cart{
+    float: right;
+    color: white;
+    padding-left: 10px;
+}
+#title{
+    width: 50rem;
+    margin-top: 15px;
+    
+}
+.enter-item-name{
+    padding-left: 70px;
+}
+.specs-edit{
+    padding-left: 70px;
+}
+.free-delivery{
+    padding-left: 70px;
+}
+#submit{
+    margin-top: 2rem;
+    margin-left: 5rem;
+    padding: 10px 5px 10px 5px;
+    width: 8em;
+    text-align: center;
+    color: #ffffff;
+    background-color: #305496;
+}
+.menu-status{
+    padding-left: 70px;
+}
+.menu-status-check{
+    color: #1fa81f;
+    padding-top: 40px;
+    font-weight: bold;
+}
+.cart-success{
+    color: #008000;
+    font-weight: bold;
+    padding-left: 350px;
+}
+.total-cart{
+    font-weight: bold;
+}
+.empty-cart{
+    color: rgb(100, 100, 100);
+    padding-left: 70px;
+    font-weight: bold;
+}
